@@ -1,0 +1,14 @@
+# Credenciales reales: no subir este archivo
+.env
+.env.*
+!.env.example
+
+# Backups y auditorias locales
+backups/
+audit/
+*.log
+
+# Python / macOS
+__pycache__/
+*.py[cod]
+.DS_Store

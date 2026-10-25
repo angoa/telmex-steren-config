@@ -1,0 +1,25 @@
+{
+  "lan": {
+    "LanIP": "10.0.0.10",
+    "LanSubnetMask": "255.255.255.0",
+    "LanDHCP": "1",
+    "LanDHCPStartIP": "10.0.0.101",
+    "LanDHCPEndIP": "10.0.0.200",
+    "LanDHCPLeaseTime": "86400",
+    "LanDNSServer": "10.0.0.10",
+    "LanDNSProxy": "1"
+  },
+  "wifi": {
+    "wifi_ssid": "MORALES",
+    "wifi_channel": "11",
+    "wifi_ssid_5g": "MORALES",
+    "wifi_channel_5g": "149",
+    "wifi_protection": "wpa2wpa3",
+    "wifi_protection_5g": "wpa2wpa3"
+  },
+  "wps": {
+    "wps_24g_onoff": "0",
+    "wps_5g_onoff": "0",
+    "wps20_enable": "0"
+  }
+}

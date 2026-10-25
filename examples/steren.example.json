@@ -1,0 +1,34 @@
+{
+  "wifiBasicCfg": {
+    "wifiEn": true,
+    "wifiSSID": "FΛЯFΛИ",
+    "wifiHideSSID": false,
+    "wifiSecurityMode": "wpa3saewpa2psk",
+    "wifiEn_5g": true,
+    "wifiSSID_5g": "FΛЯFΛИ",
+    "wifiHideSSID_5g": false,
+    "wifiSecurityMode_5g": "wpa3saewpa2psk"
+  },
+  "wifiAdvCfg": {
+    "wifiMode": "ax",
+    "wifiChannel": "1",
+    "wifiBandwidth": "20",
+    "wifiMode_5g": "ax",
+    "wifiChannel_5g": "36",
+    "wifiBandwidth_5g": "80"
+  },
+  "upnpCfg": {
+    "upnpEn": false
+  },
+  "lanCfg": {
+    "lanIP": "10.10.10.10",
+    "lanMask": "255.255.255.0",
+    "dhcpEn": true,
+    "startIP": "10.10.10.100",
+    "endIP": "10.10.10.200",
+    "dhcpLeaseTime": "24",
+    "lanDnsEn": true,
+    "lanDns1": "1.1.1.3",
+    "lanDns2": "1.0.0.3"
+  }
+}
